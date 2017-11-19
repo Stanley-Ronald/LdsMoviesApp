@@ -1,0 +1,10 @@
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\bin\Debug\netcoreapp1.1\LdsMovies.deps.json
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\bin\Debug\netcoreapp1.1\LdsMovies.runtimeconfig.json
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\bin\Debug\netcoreapp1.1\LdsMovies.runtimeconfig.dev.json
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\bin\Debug\netcoreapp1.1\LdsMovies.dll
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\bin\Debug\netcoreapp1.1\LdsMovies.pdb
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\obj\Debug\netcoreapp1.1\LdsMovies.csprojResolveAssemblyReference.cache
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\obj\Debug\netcoreapp1.1\LdsMovies.csproj.CoreCompileInputs.cache
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\obj\Debug\netcoreapp1.1\LdsMovies.AssemblyInfo.cs
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\obj\Debug\netcoreapp1.1\LdsMovies.dll
+C:\Users\Ronnie-PC\source\repos\LdsMovies\LdsMovies\obj\Debug\netcoreapp1.1\LdsMovies.pdb
